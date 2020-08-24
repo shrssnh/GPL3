@@ -115,6 +115,10 @@ a.button2:hover{
     background-color: #00b3ff;
 }
 
+.content a{
+    text-decoration: none;
+}
+
 .heading{
     font-family: Russo;
     width: 100vw;
